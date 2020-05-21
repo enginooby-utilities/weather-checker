@@ -1,0 +1,16 @@
+.button {
+	-fx-font-size: 15;
+}
+
+.list-cell {
+    -fx-alignment: center;
+}
+.label {
+}
+
+#hbox1 {
+	-fx-background-color: ECECEC;
+}
+
+#image {
+}
