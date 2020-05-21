@@ -3,4 +3,4 @@
 
 Technologies: Java, JavaFx, Maven, API
 
-![](images/1.png)
+![](images/1.PNG)
