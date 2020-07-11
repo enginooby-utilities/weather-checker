@@ -1,6 +1,7 @@
 # Weather Forecast Desktop Application
-### Ngo Trong Hieu (15943)
 
-Languages and Technologies: Java, JavaFX, Maven, API, Jackson
+### ! Compile with JDK 8 !
+A GUI program build with JavaFX, using RESTful APIs (OpenWeather and Google Places API) to retrieve the weather data along with location images, litte crappy.
+
 
 ![](images/1.PNG)
